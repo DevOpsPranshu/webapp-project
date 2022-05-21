@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>WeLCOM TO DEVOPS:wq
-	!</h2>
+<h2>WeLCOM TO DEVOPS Modifided code!</h2>
 </body>
 </html>
